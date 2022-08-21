@@ -46,6 +46,7 @@
     font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
+    text-align: center;
 }
 
 .profession {
@@ -92,6 +93,8 @@
 
 .right-title {
     color: #eeeeee;
+    font-size: 40px;
+    color: #96d2ee;
 }
 
 .gap {
